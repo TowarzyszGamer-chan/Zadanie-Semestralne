@@ -1,4 +1,4 @@
-Sprawozdanie z projektu z PTW - Temat: Muzyka - Artyści, Zespoły, Projekty
+[Sprawozdanie z projektu z PTW - Temat: Muzyka - Artyści, Zespoły, Projekty
 1. Cel projektu
 Celem projektu było stworzenie prostej aplikacji webowej umożliwiającej:
 
@@ -218,3 +218,4 @@ panelu administratora.
 
 Aplikacja jest w pełni funkcjonalna, wykorzystuje relacyjną bazę danych, AJAX, sesje i bezpieczne zapytania.
 Kod jest modularny i łatwy do rozbudowy.
+https://github.com/TowarzyszGamer-chan/Zadanie-Semestralne]
